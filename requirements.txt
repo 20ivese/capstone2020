@@ -1,0 +1,11 @@
+flask
+pylint
+pytest
+pytest-cov
+python-dotenv
+requests
+requests-mock
+redis
+pycodestyle
+flake8
+flask
